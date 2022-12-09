@@ -1,10 +1,9 @@
 {
   "name": "slot-jackpot",
   "main": "./lib/slot-jackpot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "สล็อตแตกบ่อย 2022 ปัจจุบัน ทุนน้อย ทำเงินง่าย จ่ายจริงไม่ยั้ง",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "slot-jackpot:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
