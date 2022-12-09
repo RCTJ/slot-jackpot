@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-jackpot",
+        "command": "slot-jackpot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-jackpot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-jackpot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
